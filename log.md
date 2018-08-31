@@ -4,7 +4,7 @@
 
 ##### Basic HTML and HTML5
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Introduction to Basic HTML and HTML5.
 
 **Thoughts:** Started with Introduction to Basic HTML and HTML5. In that completed following topics.
 1.Say Hello to HTML Elements<br/>
