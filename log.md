@@ -20,4 +20,12 @@
 
 **Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements/)
 
+### Day 1: September 1, 2018
+
+##### Basic HTML and HTML5
+
+**Today's Progress**: Introduction to Basic CSS.
+
+**Thoughts:** Completed Introduction to Basic CSS of Basic CSS.
+**Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/basic-css/)
 
