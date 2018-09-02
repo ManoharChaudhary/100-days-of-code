@@ -26,6 +26,15 @@
 
 **Today's Progress**: Introduction to Basic CSS.
 
-**Thoughts:** Completed Introduction to Basic CSS of Basic CSS.
+**Thoughts:** Inprogress Applied Visual Design.
 **Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/basic-css/)
+
+### Day 1: September 1, 2018
+
+##### Basic HTML and HTML5
+
+**Today's Progress**: Introduction to Basic CSS.
+
+**Thoughts:** Completed Introduction to Basic CSS of Basic CSS.
+**Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
 
