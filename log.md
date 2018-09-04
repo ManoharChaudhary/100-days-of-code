@@ -47,3 +47,12 @@
 **Thoughts:** Applied Visual Design (75% completed).
 **Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
 
+### Day 4: September 4, 2018
+
+##### Applied Visual Design
+
+**Today's Progress**: Applied Visual Design.
+
+**Thoughts:** Completed Applied Visual Design.
+**Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
+
