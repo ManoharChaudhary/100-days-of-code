@@ -56,3 +56,12 @@
 **Thoughts:** Completed Applied Visual Design.
 **Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
 
+### Day 5: September 5, 2018
+
+##### Applied Accessibility
+
+**Today's Progress**: Applied Accessibility.
+
+**Thoughts:** Completed Applied Accessibility.
+**Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)
+
