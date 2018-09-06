@@ -65,3 +65,12 @@
 **Thoughts:** Completed Applied Accessibility.
 **Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)
 
+
+### Day 6: September 6, 2018
+
+##### Responsive Web Design Principles & CSS Flexbox
+
+**Today's Progress**: Responsive Web Design Principles & CSS Flexbox.
+
+**Thoughts:** Responsive Web Design Principles & CSS Flexbox.
+**Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
