@@ -74,3 +74,12 @@
 
 **Thoughts:** Responsive Web Design Principles & CSS Flexbox.
 **Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
+
+### Day 7: September 7, 2018
+
+##### CSS Grid
+
+**Today's Progress**: CSS Grid.
+
+**Thoughts:** CSS Grid.
+**Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/css-grid)
