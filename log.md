@@ -83,3 +83,12 @@
 
 **Thoughts:** CSS Grid.
 **Link to work:** [CreeCodeCamp Curriculum](https://learn.freecodecamp.org/responsive-web-design/css-grid)
+
+### Day 8: September 8, 2018
+
+##### Responsive Web Design Projects
+
+**Today's Progress**: Build a Tribute Page.
+
+**Thoughts:** Today I have completed my first project i.e. Build a Tribute Page.
+**Link to work:** [CreeCodeCamp Curriculum](https://codepen.io/manoharChaudhari/pen/bxopKO?editors=1111)
