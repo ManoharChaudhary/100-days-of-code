@@ -92,3 +92,12 @@
 
 **Thoughts:** Today I have completed my first project i.e. Build a Tribute Page.
 **Link to work:** [CreeCodeCamp Curriculum](https://codepen.io/manoharChaudhari/pen/bxopKO?editors=1111)
+
+### Day 9: September 9, 2018
+
+##### Responsive Web Design Projects
+
+**Today's Progress**: Build a Survey Form.
+
+**Thoughts:** Today I have completed Build a Survey Form.
+**Link to work:** [CreeCodeCamp Curriculum](https://codepen.io/manoharChaudhari/pen/OoOdwQ)
