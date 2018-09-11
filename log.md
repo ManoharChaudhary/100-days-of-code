@@ -101,3 +101,12 @@
 
 **Thoughts:** Today I have completed Build a Survey Form.
 **Link to work:** [CreeCodeCamp Curriculum](https://codepen.io/manoharChaudhari/pen/OoOdwQ)
+
+### Day 10: September 10, 2018
+
+##### Responsive Web Design Projects
+
+**Today's Progress**: Build a Product Landing Page  .
+
+**Thoughts:** Today I have completed Build a Product Landing Page  .
+**Link to work:** [CreeCodeCamp Curriculum](https://codepen.io/manoharChaudhari/pen/wEyRNa)
