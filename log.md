@@ -119,3 +119,21 @@
 
 **Thoughts:** Inprogress task Build a Personal Portfolio Webpage.
 **Link to work:** [FreeCodeCamp Curriculum](https://codepen.io/manoharChaudhari/pen/rZdOjE?editors=1100)
+
+### Day 13: September 13, 2018
+
+##### Responsive Web Design Projects
+
+**Today's Progress**: Build a Personal Portfolio Webpage.
+
+**Thoughts:** Completed Build a Personal Portfolio Webpage.
+**Link to work:** [FreeCodeCamp Curriculum](https://codepen.io/manoharChaudhari/pen/rZdOjE?editors=1100)
+
+### Day 14: September 14, 2018
+
+##### Responsive Web Design Projects
+
+**Today's Progress**:Build A Technical Documentation Page.
+
+**Thoughts:** Build A Technical Documentation Page.
+**Link to work:** [FreeCodeCamp Curriculum](https://codepen.io/manoharChaudhari/pen/mGKNYL)
